@@ -41,34 +41,41 @@ The Pytorch pretrained model was taken from the [original repository](https://gi
  python webcam_flow_estimation.py
  ```
  
-# Inference video Examples(https://youtu.be/GNwyuhYu7ZI) 
+# Inference video Examples: https://youtu.be/GNwyuhYu7ZI
 
 ## Cheetah
 ![RAFT Optical flow estimation ONNX cheetah](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation/blob/main/doc/img/cheetah.gif)
+
 *Original video: https://youtu.be/-KheqfpUpr0*
 
 ## Water drop
 ![RAFT Optical flow estimation ONNX water drop](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation/blob/main/doc/img/water_drop.gif)
+
 *Original video: https://youtu.be/gS_tU6chC4A*
 
 ## Plant
 ![RAFT Optical flow estimation ONNX plant](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation/blob/main/doc/img/plant.gif)
+
 *Original video: https://youtu.be/cNr_cttSf4U*
 
 ## Blink
 ![RAFT Optical flow estimation ONNX blink](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation/blob/main/doc/img/eye_blink.gif)
+
 *Original video: https://youtu.be/lkJ4p__ZByU*
 
 ## Fall
 ![RAFT Optical flow estimation ONNX fall](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation/blob/main/doc/img/fall.gif)
+
 *Original video: https://youtu.be/RKTXn_c2tyQ*
 
 ## Baseball player
 ![RAFT Optical flow estimation ONNX baseball player](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation/blob/main/doc/img/baseball.gif)
+
 *Original video: https://youtu.be/t_vEJu3jmpw*
 
 ## Dance
 ![RAFT Optical flow estimation ONNX dance](https://github.com/ibaiGorordo/ONNX-RAFT-Optical-Flow-Estimation/blob/main/doc/img/dance.gif)
+
 *Original video: https://youtu.be/1WIA6Yvj8Yg*
 
 # References:
